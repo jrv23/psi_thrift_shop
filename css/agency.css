@@ -180,11 +180,11 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: black;
+  color: white;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #5ED0D5;
+  color: #92DFE2;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #FFFFFF;
+    background-color: #2DA8AE;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
